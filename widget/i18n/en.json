@@ -1,0 +1,11 @@
+{
+  "widget": {
+    "name": "AmoCRM - Starter Template",
+    "short_description": "AmoCRM - Starter Template",
+    "description": "AmoCRM - Starter Template"
+  },
+  "settings": {
+    "login": "Login",
+    "password": "Password"
+  }
+}

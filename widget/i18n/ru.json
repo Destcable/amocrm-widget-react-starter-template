@@ -1,0 +1,11 @@
+{
+  "widget": {
+    "name": "AmoCRM - Cтартовый шаблон",
+    "short_description": "AmoCRM - Cтартовый шаблон",
+    "description": "AmoCRM - Cтартовый шаблон"
+  },
+  "settings": {
+    "login": "Логин",
+    "password": "Пароль"
+  }
+}
